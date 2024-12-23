@@ -81,7 +81,7 @@ Edit the script to adjust parameters:
 Feel free to fork this repository and submit pull requests for bug fixes or new features.
 
 ## License
-This project is licensed under the Creative Commons Attribution 4.0 International.
+This project is licensed under the MIT license.
 
 ## Contact
 **Name:** Georgios Vlachos  
